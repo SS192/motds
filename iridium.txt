@@ -1,1 +1,2 @@
 higuys :)
+This is a test MOTD.
